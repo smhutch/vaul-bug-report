@@ -1,0 +1,8 @@
+{
+  "name": "Vaul demo",
+  "short_name": "Vaul demo",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
